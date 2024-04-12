@@ -1,8 +1,12 @@
+<!-- Move text down -->
+<br>
+
 <!-- Header -->
-<h1 align="center">Tiny Tensor</h1>
+<h1 align="center"><sup><sup>Tiny</sup></sup> Tensor</h1>
 
 <!-- Description -->
-<h3 align="center">An example AI/ML framework to show the core fundamentals of AI/ML development.</h3>
+<h3 align="center">An example AI/ML framework to show the core fundamentals of AI/ML development</h3>
+<h4 align="center">Note: No tensors are involved in this project 😝</h4>
 
 ## Example
 ```py
